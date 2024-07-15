@@ -24,3 +24,22 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** MS-Excel, SQL Server, Tableau.
 
 **Dashboard:** ['https://public.tableau.com/app/profile/komal.virk/viz/Netflix_dataset_2015-2021_withBG1/Dashboard1]
+
+
+### Data Analysis on Road Traffic Accidents.
+
+**Problem Statement:** Analyze the severity of road traffic accidents to understand the factors contributing to high accident rates on a monthly basis. This involves examining:
+
+1. Weather conditions (e.g., wet/damp roads, dry conditions)
+2. Time of day (daytime vs. nighttime)
+3. Road type (e.g., single carriageway, dual carriageway)
+4. Festival days
+5. Additionally, conduct a geographic analysis to identify the city with the highest number of accidents.
+
+**Skills:** Data cleaning, data analysis, data visualization, correlation matrices. 
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
+**Presentaion:** [https://onedrive.live.com/personal/b988dd789107950c/_layouts/15/doc2.aspx?resid=cf9e24f8-2466-4b06-9dda-b0fb1a4399ab&cid=b988dd789107950c&action=editnew&wdNewAndOpenCt=1719603623357&ct=1719603624280&wdOrigin=OFFICECOM-WEB.TEMPLATES.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=ab2a19f7-f79a-4eee-ac1e-24fa97e39710]
+
+
