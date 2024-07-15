@@ -56,3 +56,21 @@ Details: Offer a detailed analysis of loan statuses and other relevant factors c
 
 **Dashboard:** [`Bank Loan Analysis Dashboard](https://public.tableau.com/app/profile/komal.virk/viz/BankLoanProject_17206595008080/SUMMARY)
 
+
+### E-commerce Sales Data Analysis.
+
+**Problem Statement:** 
+• Analyzed sales data to identify top-performing products and sales trends in different countries to increase targeted marketing strategies.
+• Utilized SQL to perform ETL processes on over records for time-series analysis, improving data processing efficiency
+
+**Skills:** Data Connection and Integration, Data Preparation, Data Visualization.  
+
+**Technology:**  MS-Excel, SQL
+
+
+## Certificates
+BrainStation Data Analytics Certification
+
+## Contacts
+Email: Komalvirk6@gmail.com
+LinkedIn: [Komal Virk](https://www.linkedin.com/in/komal-virk18/)
