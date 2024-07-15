@@ -23,10 +23,10 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** MS-Excel, SQL Server, Tableau.
 
-**Dashboard:** ['https://public.tableau.com/app/profile/komal.virk/viz/Netflix_dataset_2015-2021_withBG1/Dashboard1]
+**Dashboard:** ['Dashboard for data analysis on Netflix dataset](https://public.tableau.com/app/profile/komal.virk/viz/Netflix_dataset_2015-2021_withBG1/Dashboard1)
 
 
-### Data Analysis on Road Traffic Accidents.
+### Data Analysis on Traffic Road Accidents.
 
 **Problem Statement:** Analyze the severity of road traffic accidents to understand the factors contributing to high accident rates on a monthly basis. This involves examining:
 
@@ -40,6 +40,19 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-**Presentaion:** [https://onedrive.live.com/personal/b988dd789107950c/_layouts/15/doc2.aspx?resid=cf9e24f8-2466-4b06-9dda-b0fb1a4399ab&cid=b988dd789107950c&action=editnew&wdNewAndOpenCt=1719603623357&ct=1719603624280&wdOrigin=OFFICECOM-WEB.TEMPLATES.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=ab2a19f7-f79a-4eee-ac1e-24fa97e39710]
+**Presentaion:** [`Presentation on Data Analysis on Traffic Road Accidents](https://onedrive.live.com/personal/b988dd789107950c/_layouts/15/doc2.aspx?resid=cf9e24f8-2466-4b06-9dda-b0fb1a4399ab&cid=b988dd789107950c&action=editnew&wdNewAndOpenCt=1719603623357&ct=1719603624280&wdOrigin=OFFICECOM-WEB.TEMPLATES.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=ab2a19f7-f79a-4eee-ac1e-24fa97e39710)
 
+### Dashboard on Bank Loan Dataset.
+
+**Problem Statement:** Analyze the bank loan dataset to understand the dynamics of loan performance. The analysis aims to differentiate between good loans and bad loans, evaluate the total amount received, calculate the average interest rate, and examine loan status. The dashboard will be divided into three sections:
+
+Summary: Provide an overview of the key metrics, including the total number of loans, total amount received, and average interest rate. Highlight the distribution of good and bad loans and visualize the overall loan performance.
+Overview: Analyzing the factors which impact the total loan applocations
+Details: Offer a detailed analysis of loan statuses and other relevant factors contributing to loan performance.
+
+**Skills:** Data Connection and Integration, Data Preparation, Data Visualization.  
+
+**Technology:** Tableau, MS-Excel.
+
+**Dashboard:** [`Bank Loan Analysis Dashboard](https://public.tableau.com/app/profile/komal.virk/viz/BankLoanProject_17206595008080/SUMMARY)
 
