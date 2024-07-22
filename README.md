@@ -38,7 +38,7 @@ The analysis will focus on data preprocessing, exploratory data analysis, featur
 
 **Technology:**  Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-**Dashboard:** [`Bank Loan Analysis Dashboard](https://public.tableau.com/app/profile/komal.virk/viz/BankLoanProject_17206595008080/SUMMARY)
+**Dashboard:** [`Code for Data Analysis on Brain Stroke dataset](https://github.com/komalvirk1801/DATA_ANALYST_PORTFOLIO/blob/main/DataAnalysisOnBrainStrokeData.ipynb)
 
 
 
