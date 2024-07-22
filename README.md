@@ -15,6 +15,33 @@ I am confident that my data analytics skills and experience make me an ideal can
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### Data Analysis on Brain Stroke dataset
+
+**Problem Statement:** 
+Brainstroke, a leading cause of disability and death globally, presents a significant challenge in medical research and healthcare. Despite advances in medical technology, predicting and understanding the factors contributing to brainstroke remain complex and crucial for improving patient outcomes.
+
+The objective of this analysis is to examine a comprehensive brainstroke dataset to identify key patterns and factors associated with the incidence of brainstroke. The dataset includes various patient attributes such as demographic information, medical history, lifestyle factors, and clinical measurements.
+
+Key Questions to Address:
+
+ - What are the primary risk factors associated with brainstroke? Analyze the dataset to identify and quantify the impact of different risk factors such as age, gender, hypertension, diabetes, smoking, and physical inactivity on the likelihood of brainstroke.
+
+- How do different factors interact to influence brainstroke risk? Explore interactions between various factors to understand their combined effects on brainstroke risk and uncover any significant correlations or patterns.
+
+- What insights can be derived to support clinical decision-making and public health strategies? Generate actionable insights from the data that can inform healthcare professionals and policymakers in designing effective prevention and intervention strategies for brainstroke.
+
+**Scope:**
+
+The analysis will focus on data preprocessing, exploratory data analysis, feature selection, and the application of statistical and machine learning techniques to uncover meaningful insights. The ultimate goal is to contribute valuable knowledge that can support efforts in reducing brainstroke incidence and improving patient care.
+
+**Skills:**  Data cleaning, data analysis, data visualization, correlation matrices.
+
+**Technology:**  Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
+**Dashboard:** [`Bank Loan Analysis Dashboard](https://public.tableau.com/app/profile/komal.virk/viz/BankLoanProject_17206595008080/SUMMARY)
+
+
+
 ### Analyzing the video streaming dataset (Netflix) for the years 2015-2021.
 
 **Problem Statement:** While analyzing the dataset, we found a sudden dip in the revenue collection and releases of recent movies in the year 2020 by the end of it. Tried to determine the factors which could help Netflix to increase the revenue collection and audience engagement with the platform. The dataset included movie titles, ratings, genres, release dates, budgets, IMDB score, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA) in Tableau and finding the various factors which could increase the audience engagement.
