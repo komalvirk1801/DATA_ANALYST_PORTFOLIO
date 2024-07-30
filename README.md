@@ -83,6 +83,20 @@ Details: Offer a detailed analysis of loan statuses and other relevant factors c
 
 **Dashboard:** [`Bank Loan Analysis Dashboard](https://public.tableau.com/app/profile/komal.virk/viz/BankLoanProject_17206595008080/SUMMARY)
 
+### Interactive HR Dashboard using Excel.
+
+**Problem Statement:** 
+The primary goal is to create an HR dashboard to analyze and visualize key HR metrics, focusing on gender distribution, age groups, and salary levels across different dimensions such as region, manager, gender, and department. The insights derived from this analysis will inform strategic HR decisions, promote diversity and inclusion, and optimize resource allocation.
+
+**Skills:** Data Connection and Integration, Data Preparation, Data Visualization.  
+
+**Technology:**  MS-Excel.
+
+**Outcomes:**
+**Enhanced Visibility:** Clear and concise visual representation of key HR metrics, enabling quick and informed decision-making.
+**Improved Diversity and Inclusion:** Identification of areas where gender and age group imbalances exist, facilitating targeted interventions.
+**Equity in Compensation:** Analysis of salary distribution to ensure fair compensation practices and address any discrepancies.
+
 
 ### E-commerce Sales Data Analysis.
 
