@@ -92,10 +92,12 @@ The primary goal is to create an HR dashboard to analyze and visualize key HR me
 
 **Technology:**  MS-Excel.
 
-**Outcomes:**
-**Enhanced Visibility:** Clear and concise visual representation of key HR metrics, enabling quick and informed decision-making.
-**Improved Diversity and Inclusion:** Identification of areas where gender and age group imbalances exist, facilitating targeted interventions.
-**Equity in Compensation:** Analysis of salary distribution to ensure fair compensation practices and address any discrepancies.
+**Outcomes:**  
+**Enhanced Visibility:** Clear and concise visual representation of key HR metrics, enabling quick and informed decision-making.  
+**Improved Diversity and Inclusion:** Identification of areas where gender and age group imbalances exist, facilitating targeted interventions.  
+**Equity in Compensation:** Analysis of salary distribution to ensure fair compensation practices and address any discrepancies.  
+
+**Dashboard:** [`Interactive HR Dashboard](https://1drv.ms/x/c/b988dd789107950c/EcWgPFx170ROglqHWkUxgTkBF3hPn8n2A-sQZlZeodzOpA?e=kUXZSl)
 
 
 ### E-commerce Sales Data Analysis.
