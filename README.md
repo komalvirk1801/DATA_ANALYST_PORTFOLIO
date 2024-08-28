@@ -52,6 +52,16 @@ The analysis will focus on data preprocessing, exploratory data analysis, featur
 
 **Dashboard:** ['Dashboard for data analysis on Netflix dataset](https://public.tableau.com/app/profile/komal.virk/viz/Netflix_dataset_2015-2021_withBG1/Dashboard1)
 
+### Power BI project on HR Analytics
+
+**Problem Statement:** The HR Analytics Dashboard for Attrition is designed to provide insights into employee turnover by analyzing various factors that influence attrition rates. The dashboard offers a comprehensive view of key metrics such as employee demographics, job roles, tenure, performance, and engagement levels. By examining trends and patterns, HR professionals can identify high-risk groups, understand the underlying reasons for attrition, and develop data-driven strategies to retain top talent. The dashboard facilitates proactive decision-making to enhance employee satisfaction and reduce turnover.
+
+**Skills:** Power Query, Converting Data Types, data cleaning, data analysis, data visualization, Power BI Desktop.
+
+**Technology:** MS-Excel, Power Query, Power BI Desktop.
+
+**Dashboard Template:** ['Dashboard for data analysis on Netflix dataset](https://public.tableau.com/app/profile/komal.virk/viz/Netflix_dataset_2015-2021_withBG1/Dashboard1)
+
 
 ### Data Analysis on Traffic Road Accidents.
 
@@ -69,7 +79,7 @@ The analysis will focus on data preprocessing, exploratory data analysis, featur
 
 **Presentaion:** [`Presentation on Data Analysis on Traffic Road Accidents](https://onedrive.live.com/personal/b988dd789107950c/_layouts/15/doc2.aspx?resid=cf9e24f8-2466-4b06-9dda-b0fb1a4399ab&cid=b988dd789107950c&action=editnew&wdNewAndOpenCt=1719603623357&ct=1719603624280&wdOrigin=OFFICECOM-WEB.TEMPLATES.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=ab2a19f7-f79a-4eee-ac1e-24fa97e39710)
 
-### Dashboard on Bank Loan Dataset.
+### Dashboard on Bank Loan Analysis.
 
 **Problem Statement:** Analyze the bank loan dataset to understand the dynamics of loan performance. The analysis aims to differentiate between good loans and bad loans, evaluate the total amount received, calculate the average interest rate, and examine loan status. The dashboard will be divided into three sections:
 
