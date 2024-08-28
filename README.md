@@ -61,7 +61,7 @@ The analysis will focus on data preprocessing, exploratory data analysis, featur
 **Technology:** MS-Excel, Power Query, Power BI Desktop.
 
 **Dashboard Template:** ['Dashboard Template on HR Analytics for Attrition](https://github.com/komalvirk1801/DATA_ANALYST_PORTFOLIO/blob/main/HR_Analytics.pbit)  
-['PDF] (https://github.com/komalvirk1801/DATA_ANALYST_PORTFOLIO/blob/main/HR_Analytics.pdf)
+['PDF](https://github.com/komalvirk1801/DATA_ANALYST_PORTFOLIO/blob/main/HR_Analytics.pdf)
 
 
 
