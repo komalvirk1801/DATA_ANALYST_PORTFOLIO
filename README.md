@@ -60,7 +60,9 @@ The analysis will focus on data preprocessing, exploratory data analysis, featur
 
 **Technology:** MS-Excel, Power Query, Power BI Desktop.
 
-**Dashboard Template:** ['Dashboard for data analysis on Netflix dataset](https://public.tableau.com/app/profile/komal.virk/viz/Netflix_dataset_2015-2021_withBG1/Dashboard1)
+**Dashboard Template:** ['Dashboard Template on HR Analytics for Attrition](https://github.com/komalvirk1801/DATA_ANALYST_PORTFOLIO/blob/main/HR_Analytics.pbit)  
+[`PDF] (https://github.com/komalvirk1801/DATA_ANALYST_PORTFOLIO/blob/main/HR_Analytics.pdf)
+
 
 
 ### Data Analysis on Traffic Road Accidents.
