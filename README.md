@@ -15,7 +15,7 @@ I am confident that my data analytics skills and experience make me an ideal can
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Data Analysis on Brain Stroke dataset
+### Data Analysis on Brain Stroke dataset Using Python
 
 **Problem Statement:** 
 Brainstroke, a leading cause of disability and death globally, presents a significant challenge in medical research and healthcare. Despite advances in medical technology, predicting and understanding the factors contributing to brainstroke remain complex and crucial for improving patient outcomes.
@@ -42,7 +42,7 @@ The analysis will focus on data preprocessing, exploratory data analysis, featur
 
 
 
-### Analyzing the video streaming dataset (Netflix) for the years 2015-2021.
+### Analyzing the video streaming dataset (Netflix) for the years 2015-2021 using SQL and Tableau.
 
 **Problem Statement:** While analyzing the dataset, we found a sudden dip in the revenue collection and releases of recent movies in the year 2020 by the end of it. Tried to determine the factors which could help Netflix to increase the revenue collection and audience engagement with the platform. The dataset included movie titles, ratings, genres, release dates, budgets, IMDB score, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA) in Tableau and finding the various factors which could increase the audience engagement.
 
@@ -65,7 +65,7 @@ The analysis will focus on data preprocessing, exploratory data analysis, featur
 
 
 
-### Data Analysis on Traffic Road Accidents.
+### Data Analysis on Traffic Road Accidents Using Python.
 
 **Problem Statement:** Analyze the severity of road traffic accidents to understand the factors contributing to high accident rates on a monthly basis. This involves examining:
 
@@ -81,7 +81,7 @@ The analysis will focus on data preprocessing, exploratory data analysis, featur
 
 **Presentaion:** [`Presentation on Data Analysis on Traffic Road Accidents](https://onedrive.live.com/personal/b988dd789107950c/_layouts/15/doc2.aspx?resid=cf9e24f8-2466-4b06-9dda-b0fb1a4399ab&cid=b988dd789107950c&action=editnew&wdNewAndOpenCt=1719603623357&ct=1719603624280&wdOrigin=OFFICECOM-WEB.TEMPLATES.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=ab2a19f7-f79a-4eee-ac1e-24fa97e39710)
 
-### Dashboard on Bank Loan Analysis.
+### Dashboard on Bank Loan Analysis Using Excel and Tableau.
 
 **Problem Statement:** Analyze the bank loan dataset to understand the dynamics of loan performance. The analysis aims to differentiate between good loans and bad loans, evaluate the total amount received, calculate the average interest rate, and examine loan status. The dashboard will be divided into three sections:
 
@@ -112,7 +112,7 @@ The primary goal is to create an HR dashboard to analyze and visualize key HR me
 **Dashboard:** [`Interactive HR Dashboard](https://1drv.ms/x/c/b988dd789107950c/EcWgPFx170ROglqHWkUxgTkBF3hPn8n2A-sQZlZeodzOpA?e=kUXZSl)
 
 
-### E-commerce Sales Data Analysis.
+### E-commerce Sales Data Analysis using Excel.
 
 **Problem Statement:** 
 • Analyzed sales data to identify top-performing products and sales trends in different countries to increase targeted marketing strategies.
