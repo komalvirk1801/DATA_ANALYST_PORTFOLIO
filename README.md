@@ -63,7 +63,21 @@ The analysis will focus on data preprocessing, exploratory data analysis, featur
 **Dashboard Template:** ['Dashboard Template on HR Analytics for Attrition](https://github.com/komalvirk1801/DATA_ANALYST_PORTFOLIO/blob/main/HR_Analytics.pbit)  
 ['PDF](https://github.com/komalvirk1801/DATA_ANALYST_PORTFOLIO/blob/main/HR_Analytics.pdf)
 
+### Credit Card Transactions and Customer Profile Report
 
+**Problem Statement**
+
+**Objective:**
+To develop an interactive Power BI dashboard that analyzes credit card transactions and provides detailed customer insights. The goal is to help stakeholders understand customer spending patterns, monitor key performance indicators (KPIs), credit card transactions, improve customer retention, and enhance financial reporting.
+
+**Scope:**
+The dashboard will visualize transaction and customer data, allowing users to explore trends, segment customers, and identify anomalies. It will support decision-making for marketing, risk management, and financial planning.
+
+**Skills:** Power Query, DAX, Converting Data Types, data cleaning, data analysis, data visualization, Power BI Desktop.
+
+**Technology:** MS-Excel, SQL, Power Query, Power BI Desktop.
+
+**Dashboard Template:** ['Dashboard Template on Credit Card Transaction and customer weekly report](https://github.com/komalvirk1801/powerBIProjects/blob/main/CreditCardAnalysis_Dashboard/Credit_card_report.pdf)
 
 ### Data Analysis on Traffic Road Accidents Using Python.
 
