@@ -54,6 +54,8 @@ The analysis will focus on data preprocessing, exploratory data analysis, featur
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
+**Presentaion:** [`Presentation on Data Analysis on Traffic Road Accidents](https://onedrive.live.com/personal/b988dd789107950c/_layouts/15/doc2.aspx?resid=cf9e24f8-2466-4b06-9dda-b0fb1a4399ab&cid=b988dd789107950c&action=editnew&wdNewAndOpenCt=1719603623357&ct=1719603624280&wdOrigin=OFFICECOM-WEB.TEMPLATES.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=ab2a19f7-f79a-4eee-ac1e-24fa97e39710)
+
 ### Analyzing the video streaming dataset (Netflix) for the years 2015-2021 using SQL and Tableau.
 
 **Problem Statement:** While analyzing the dataset, we found a sudden dip in the revenue collection and releases of recent movies in the year 2020 by the end of it. Tried to determine the factors which could help Netflix to increase the revenue collection and audience engagement with the platform. The dataset included movie titles, ratings, genres, release dates, budgets, IMDB score, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA) in Tableau and finding the various factors which could increase the audience engagement.
