@@ -40,7 +40,19 @@ The analysis will focus on data preprocessing, exploratory data analysis, featur
 
 **Dashboard:** [`Code for Data Analysis on Brain Stroke dataset](https://github.com/komalvirk1801/DATA_ANALYST_PORTFOLIO/blob/main/DataAnalysisOnBrainStrokeData.ipynb)
 
+### Data Analysis on Traffic Road Accidents Using Python.
 
+**Problem Statement:** Analyze the severity of road traffic accidents to understand the factors contributing to high accident rates on a monthly basis. This involves examining:
+
+1. Weather conditions (e.g., wet/damp roads, dry conditions)
+2. Time of day (daytime vs. nighttime)
+3. Road type (e.g., single carriageway, dual carriageway)
+4. Festival days
+5. Additionally, conduct a geographic analysis to identify the city with the highest number of accidents.
+
+**Skills:** Data cleaning, data analysis, data visualization, correlation matrices. 
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
 ### Analyzing the video streaming dataset (Netflix) for the years 2015-2021 using SQL and Tableau.
 
@@ -79,21 +91,19 @@ The dashboard will visualize transaction and customer data, allowing users to ex
 
 **Dashboard Template:** ['Dashboard Template on Credit Card Transaction and customer weekly report](https://github.com/komalvirk1801/powerBIProjects/blob/main/CreditCardAnalysis_Dashboard/Credit_card_report.pdf)
 
-### Data Analysis on Traffic Road Accidents Using Python.
+### DIWALI SALES DATA ANALYSIS
 
-**Problem Statement:** Analyze the severity of road traffic accidents to understand the factors contributing to high accident rates on a monthly basis. This involves examining:
+**Problem Statement:** With Diwali around the corner, it's the perfect time to analyze sales trends that skyrocket during this festive season in India. Diwali is a festival of lights, joy, and immense shopping as families purchase everything from clothing and electronics to gifts and home decor.
 
-1. Weather conditions (e.g., wet/damp roads, dry conditions)
-2. Time of day (daytime vs. nighttime)
-3. Road type (e.g., single carriageway, dual carriageway)
-4. Festival days
-5. Additionally, conduct a geographic analysis to identify the city with the highest number of accidents.
+In the Diwali Sales Data Analysis Project, we cleaned and transformed the dataset using Python libraries such as Pandas and NumPy, ensuring consistent formats and handling missing or incorrect values. After preparing the data, we used Matplotlib and Seaborn for visualization to explore key sales trends, customer demographics, and product preferences.
+
+This project highlights the power of data-driven storytelling by revealing insights into consumer behavior during one of the most vibrant shopping seasons in India. Through analysis, retailers can tailor their strategies to boost sales, maximize engagement, and optimize inventory management.
 
 **Skills:** Data cleaning, data analysis, data visualization, correlation matrices. 
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-**Presentaion:** [`Presentation on Data Analysis on Traffic Road Accidents](https://onedrive.live.com/personal/b988dd789107950c/_layouts/15/doc2.aspx?resid=cf9e24f8-2466-4b06-9dda-b0fb1a4399ab&cid=b988dd789107950c&action=editnew&wdNewAndOpenCt=1719603623357&ct=1719603624280&wdOrigin=OFFICECOM-WEB.TEMPLATES.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=ab2a19f7-f79a-4eee-ac1e-24fa97e39710)
+**Code:** ['Code](https://github.com/komalvirk1801/PythonProjects/blob/main/Diwali%20Sales%20Data%20Analysis/Diwali_sales_data_Analysis.ipynb)
 
 ### Dashboard on Bank Loan Analysis Using Excel and Tableau.
 
