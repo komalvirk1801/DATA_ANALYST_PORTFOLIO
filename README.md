@@ -56,6 +56,20 @@ The analysis will focus on data preprocessing, exploratory data analysis, featur
 
 **Presentaion:** [`Presentation on Data Analysis on Traffic Road Accidents](https://onedrive.live.com/personal/b988dd789107950c/_layouts/15/doc2.aspx?resid=cf9e24f8-2466-4b06-9dda-b0fb1a4399ab&cid=b988dd789107950c&action=editnew&wdNewAndOpenCt=1719603623357&ct=1719603624280&wdOrigin=OFFICECOM-WEB.TEMPLATES.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=ab2a19f7-f79a-4eee-ac1e-24fa97e39710)
 
+### DIWALI SALES DATA ANALYSIS
+
+**Problem Statement:** With Diwali around the corner, it's the perfect time to analyze sales trends that skyrocket during this festive season in India. Diwali is a festival of lights, joy, and immense shopping as families purchase everything from clothing and electronics to gifts and home decor.
+
+In the Diwali Sales Data Analysis Project, we cleaned and transformed the dataset using Python libraries such as Pandas and NumPy, ensuring consistent formats and handling missing or incorrect values. After preparing the data, we used Matplotlib and Seaborn for visualization to explore key sales trends, customer demographics, and product preferences.
+
+This project highlights the power of data-driven storytelling by revealing insights into consumer behavior during one of the most vibrant shopping seasons in India. Through analysis, retailers can tailor their strategies to boost sales, maximize engagement, and optimize inventory management.
+
+**Skills:** Data cleaning, data analysis, data visualization, correlation matrices. 
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
+**Code:** ['Code](https://github.com/komalvirk1801/PythonProjects/blob/main/Diwali%20Sales%20Data%20Analysis/Diwali_sales_data_Analysis.ipynb)
+
 ### Analyzing the video streaming dataset (Netflix) for the years 2015-2021 using SQL and Tableau.
 
 **Problem Statement:** While analyzing the dataset, we found a sudden dip in the revenue collection and releases of recent movies in the year 2020 by the end of it. Tried to determine the factors which could help Netflix to increase the revenue collection and audience engagement with the platform. The dataset included movie titles, ratings, genres, release dates, budgets, IMDB score, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA) in Tableau and finding the various factors which could increase the audience engagement.
@@ -65,6 +79,7 @@ The analysis will focus on data preprocessing, exploratory data analysis, featur
 **Technology:** MS-Excel, SQL Server, Tableau.
 
 **Dashboard:** ['Dashboard for data analysis on Netflix dataset](https://public.tableau.com/app/profile/komal.virk/viz/Netflix_dataset_2015-2021_withBG1/Dashboard1)
+
 
 ### Power BI project on HR Analytics
 
@@ -77,7 +92,7 @@ The analysis will focus on data preprocessing, exploratory data analysis, featur
 **Dashboard Template:** ['Dashboard Template on HR Analytics for Attrition](https://github.com/komalvirk1801/DATA_ANALYST_PORTFOLIO/blob/main/HR_Analytics.pbit)  
 ['PDF](https://github.com/komalvirk1801/DATA_ANALYST_PORTFOLIO/blob/main/HR_Analytics.pdf)
 
-### Credit Card Transactions and Customer Profile Report
+### Credit Card Transactions and Customer Profile Report POWER BI projects
 
 **Problem Statement**
 
@@ -93,19 +108,6 @@ The dashboard will visualize transaction and customer data, allowing users to ex
 
 **Dashboard Template:** ['Dashboard Template on Credit Card Transaction and customer weekly report](https://github.com/komalvirk1801/powerBIProjects/blob/main/CreditCardAnalysis_Dashboard/Credit_card_report.pdf)
 
-### DIWALI SALES DATA ANALYSIS
-
-**Problem Statement:** With Diwali around the corner, it's the perfect time to analyze sales trends that skyrocket during this festive season in India. Diwali is a festival of lights, joy, and immense shopping as families purchase everything from clothing and electronics to gifts and home decor.
-
-In the Diwali Sales Data Analysis Project, we cleaned and transformed the dataset using Python libraries such as Pandas and NumPy, ensuring consistent formats and handling missing or incorrect values. After preparing the data, we used Matplotlib and Seaborn for visualization to explore key sales trends, customer demographics, and product preferences.
-
-This project highlights the power of data-driven storytelling by revealing insights into consumer behavior during one of the most vibrant shopping seasons in India. Through analysis, retailers can tailor their strategies to boost sales, maximize engagement, and optimize inventory management.
-
-**Skills:** Data cleaning, data analysis, data visualization, correlation matrices. 
-
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
-
-**Code:** ['Code](https://github.com/komalvirk1801/PythonProjects/blob/main/Diwali%20Sales%20Data%20Analysis/Diwali_sales_data_Analysis.ipynb)
 
 ### Dashboard on Bank Loan Analysis Using Excel and Tableau.
 
