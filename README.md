@@ -109,6 +109,26 @@ The dashboard will visualize transaction and customer data, allowing users to ex
 **Dashboard Template:** ['Dashboard Template on Credit Card Transaction and customer weekly report](https://github.com/komalvirk1801/powerBIProjects/blob/main/CreditCardAnalysis_Dashboard/Credit_card_report.pdf)
 
 
+
+### Customer Segmentation Analysis Using SQL  
+
+**Problem Statement:** The goal of this project is to analyze customer purchasing behavior by segmenting customers based on their transactions. Using transactional data such as invoice details, product descriptions, quantities, and customer IDs, we aim to identify distinct customer segments. This segmentation will help in understanding purchasing patterns, customer preferences, and trends, enabling data-driven strategies for targeted marketing, personalized offers, and improved customer retention.  
+
+**Key questions include:**
+
+ - Which customer segments generate the most revenue and perform Recency, Frequency, Monetary  analysis?
+ - Which countries have the most active customers?
+ - What are the key trends in purchasing behavior?
+By performing this analysis using SQL, we will extract valuable insights to drive business decisions and optimize marketing efforts.
+
+**OBSERVATIONS/CONCLUSIONS:**
+Using the RFM (Recency, Frequency, Monetary) analysis for customer segmentation, we can allow businesses to classify customers into different segments based on their behavior, which can help in targeted marketing, personalized offers, and improving customer retention strategies. It helped us to find the valuable customers which have recently purchase the products, track their frequest visits and bring us larger revenue. 
+Among all the countries UK has the most customers purchasing the products and most of the cancellations are also from UK. This shows that people of UK are engaged actively with the business and promoting their products in the UK will yeild more revenue.  
+These insights can be used to target marketing efforts to re-engage customers who haven't purchased recently (high recency) but are valuable due to their frequency and spending.
+ **Skills:** SQL, Windows Functions, CTE.  
+ **Code:** [`Code](https://github.com/komalvirk1801/DATA_ANALYST_PORTFOLIO/blob/main/CustomerSegmentationUsingSQL.sql)
+
+
 ### Dashboard on Bank Loan Analysis Using Excel and Tableau.
 
 **Problem Statement:** Analyze the bank loan dataset to understand the dynamics of loan performance. The analysis aims to differentiate between good loans and bad loans, evaluate the total amount received, calculate the average interest rate, and examine loan status. The dashboard will be divided into three sections:
